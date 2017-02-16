@@ -1,0 +1,327 @@
+aviation.aviation_incident_aircraft_relationship	4	3	symbols.namesake	location.location	aviation.airport	3	event.disaster	aviation.airliner_accident	time.event	3	business.employer	organization.organization	business.business_operation	3	business.employer	location.location	organization.organization_scope
+base.webvideo.internet_video_series_crew_gig	3	3	people.person	tv.tv_actor	tv.tv_personality	3	book.book_subject	people.profession	film.film_job	1	tv.tv_program
+base.ontologies.ontology_class_mapping	2	3	people.person	book.book_subject	business.employer	3	book.book_subject	internet.website	computer.software_genre
+sports.pro_sports_played	2	3	olympics.olympic_sport	cvg.computer_game_subject	sports.sport	3	people.measured_person	people.person	sports.pro_athlete
+base.popstra.legal_dispute	2	1	award.award_nominee	3	people.person	award.award_nominee	award.award_winner
+computer.software_compatibility	2	1	computer.software	1	computer.operating_system
+base.schemastaging.coach_athlete_relationship	2	3	people.measured_person	people.person	sports.pro_athlete	1	people.person
+film.dubbing_performance	4	3	book.book_subject	education.field_of_study	language.human_language	2	fictional_universe.fictional_character	film.film_character	1	film.film	2	film.actor	people.person
+user.robert.performance.performance	3	3	film.person_or_entity_appearing_in_film	music.artist	internet.social_network_user	3	award.award_nominated_work	location.location	award.award_winning_work	3	music.artist	internet.social_network_user	music.producer
+base.militaryinfiction.military_command_in_fiction	5	3	fictional_universe.fictional_character	media_common.quotation_addressee	fictional_universe.fictional_employer	2	fictional_universe.event_in_fiction	fictional_universe.work_of_fiction	3	fictional_universe.fictional_organization	media_common.quotation_addressee	fictional_universe.fictional_employer	2	fictional_universe.fictional_organization	fictional_universe.fictional_employer	3	fictional_universe.work_of_fiction	book.written_work	media_common.quotation_addressee
+cvg.musical_game_song_relationship	3	1	cvg.musical_game_song	2	computer.computer	cvg.cvg_platform	2	cvg.musical_game	cvg.computer_videogame
+base.vwmtbase.vw_data_source_2_adapter	3	0		0		0	
+broadcast.tv_affiliation_duration	2	1	tv.tv_network	1	broadcast.broadcast
+transportation.road_starting_point	2	3	transportation.road	projects.project_focus	location.location	3	location.location	location.statistical_region	location.dated_location
+base.jamesbond007.villain_fate	2	3	fictional_universe.fictional_character	fictional_universe.fictional_employer	film.film_character	3	award.award_nominated_work	award.award_winning_work	award.ranked_item
+government.legislative_election_results	2	3	business.employer	government.political_party	organization.organization	1	government.governmental_body
+user.robert.mobile_phones.regional_submodel	3	3	business.consumer_product	computer.computer	business.product_line	3	book.book_subject	business.employer	location.location	0	
+soccer.football_goal	3	3	people.person	people.measured_person	sports.pro_athlete	2	soccer.football_match	time.event	2	soccer.football_team	sports.sports_team
+business.sponsorship	2	1	business.sponsored_recipient	1	business.sponsor
+base.datedlocationtest.dated_location_merger	2	3	book.book_subject	location.location	location.statistical_region	3	book.book_subject	location.location	location.statistical_region
+user.tsegaran.random.taxonomy_entry	2	3	people.person	time.event	book.book_subject	0	
+base.musicfestival.artist_festival_relationship	2	3	award.award_nominee	award.award_winner	film.person_or_entity_appearing_in_film	1	time.event
+tv.regular_tv_appearance	4	2	people.person	tv.tv_actor	2	tv.tv_character	fictional_universe.fictional_character	1	tv.tv_series_season	1	tv.tv_program
+base.militaryinfiction.military_casulaties_in_fiction	4	3	book.book_subject	organization.organization	media_common.quotation_addressee	3	book.book_subject	business.employer	organization.organization	3	time.event	book.book_subject	military.military_conflict	3	fictional_universe.work_of_fiction	book.written_work	media_common.quotation_addressee
+base.productplacement.product_placement	2	3	book.book_subject	award.award_nominated_work	award.award_winning_work	3	business.employer	organization.organization	computer.operating_system
+film.film_crew_gig	3	2	people.person	film.film_crewmember	1	film.film	2	film.film_job	people.profession
+tv.tv_segment_personal_appearance	2	1	tv.tv_episode_segment	3	people.person	tv.tv_actor	tv.tv_personality
+base.patronage.patron_client_relationship	2	2	visual_art.artwork	interests.collectable_item	2	people.person	people.deceased_person
+projects.project_participation	3	1	projects.project_participant	1	projects.project	1	projects.project_role
+base.vwmtbase.vw_transformation_agent_2_data_representation	3	0		0		0	
+basketball.basketball_historical_coach_position	2	2	sports.sports_team	basketball.basketball_team	2	basketball.basketball_coach	people.person
+basketball.basketball_player_stats	3	2	sports.sports_league_season	time.event	3	people.person	people.measured_person	sports.pro_athlete	1	sports.sports_team
+music.concert_performance	3	3	people.person	film.actor	film.person_or_entity_appearing_in_film	2	music.concert	time.event	3	award.award_nominee	award.award_winner	film.person_or_entity_appearing_in_film
+base.peleton.historical_cycling_roster_position	2	3	people.person	people.measured_person	sports.pro_athlete	2	sports.sports_team	business.sponsored_recipient
+base.ecology.symbiotic_relationship	2	3	book.book_subject	biology.organism_classification	media_common.quotation_subject	0	
+organization.organization_membership	2	1	organization.organization_member	2	organization.organization	organization.membership_organization
+royalty.system_order_relationship	2	1	royalty.system_of_nobility	1	royalty.order_of_chivalry
+user.skud.embassies_and_consulates.ambassadorial_tenure	3	3	book.book_subject	location.location	location.statistical_region	2	people.deceased_person	people.person	3	book.book_subject	location.location	location.statistical_region
+military.military_combatant_group	2	2	military.military_conflict	time.event	1	military.military_combatant
+visual_art.artwork_owner_relationship	2	1	visual_art.artwork	1	finance.currency
+base.crime.crime_accusation	3	3	people.person	tv.tv_actor	film.actor	3	time.event	book.book_subject	film.film_subject	3	people.person	book.book_subject	business.employer
+sports.sports_award	4	2	sports.sports_league_season	time.event	3	people.person	people.measured_person	sports.pro_athlete	1	sports.sports_team	2	award.award_category	sports.sports_award_type
+user.micahsaul.advertising.ad_contribution	2	1	award.award_winning_work	3	organization.organization	award.award_winner	award.award_nominee
+base.webvideo.internet_video_series_producer_credit	2	2	broadcast.content	award.award_nominated_work	3	people.person	award.award_nominee	award.award_winner
+american_football.game_rushing_statistics	2	3	people.person	people.measured_person	sports.pro_athlete	3	american_football.nfl_game	american_football.football_game	time.event
+base.fictionaluniverse.fictional_spaceship_crewman_posting	3	1	fictional_universe.fictional_setting	3	fictional_universe.fictional_character	tv.tv_character	film.film_character	1	fictional_universe.character_occupation
+base.popstra.religion_choice	2	2	religion.religion	book.book_subject	3	people.person	award.award_nominee	tv.tv_actor
+base.ontologies.ontology_instance_mapping	2	1	internet.website	3	people.person	book.book_subject	people.measured_person
+base.yalebase.secret_society_membership	2	1	organization.organization	1	people.person
+american_football.player_rushing_statistics	2	3	people.person	people.measured_person	sports.pro_athlete	2	sports.sports_league_season	time.event
+american_football.player_receiving_statistics	2	2	time.event	sports.sports_league_season	3	people.person	people.measured_person	sports.pro_athlete
+sports.sports_team_coach_tenure	2	1	sports.coaching_position	1	sports.sports_team
+base.militaryinfiction.military_character_service	5	3	book.book_subject	fictional_universe.fictional_character	business.job_title	2	fictional_universe.fictional_organization	media_common.quotation_addressee	3	fictional_universe.work_of_fiction	book.written_work	media_common.quotation_addressee	3	organization.organization	fictional_universe.fictional_organization	fictional_universe.fictional_employer	3	fictional_universe.fictional_character	media_common.quotation_addressee	fictional_universe.fictional_employer
+comic_strips.comic_strip_syndicate_duration	2	1	comic_strips.comic_strip_syndicate	1	comic_strips.comic_strip
+base.theosbornboysaregrowing.trip	5	3	location.statistical_region	location.location	location.dated_location	1	book.book_subject	3	book.book_subject	organization.organization_sector	business.industry	1	people.person	1	people.person
+tennis.tennis_match	3	3	people.person	people.measured_person	sports.pro_athlete	2	time.recurring_event	tennis.tennis_tournament	3	people.person	people.measured_person	sports.pro_athlete
+people.appointment	3	3	people.person	book.book_subject	book.author	1	book.book_subject	2	people.person	people.appointee
+location.location_symbol_relationship	2	3	location.location	location.statistical_region	location.dated_location	1	location.offical_symbol_variety
+base.handball.handball_disciplinary_action	2	3	people.person	sports.pro_athlete	people.measured_person	1	time.event
+base.webvideo.internet_video_regular_performance	3	3	people.person	people.measured_person	sports.pro_athlete	3	award.award_nominated_work	award.award_winning_work	tv.tv_program	3	people.person	people.measured_person	sports.pro_athlete
+location.partial_containment_relationship	2	1	location.location	1	location.location
+base.dancegroups.dance_group_membership	2	1	music.artist	2	people.person	tv.tv_personality
+base.sharing.sharing_relationship	3	3	book.book_subject	film.film_subject	organization.organization_sector	3	book.book_subject	location.location	location.statistical_region	2	organization.organization_sector	organization.contact_category
+tv.video	2	1	tv.tv_series_episode	3	award.award_nominee	award.award_winner	organization.organization
+olympics.olympic_city_bid	2	3	location.statistical_region	location.location	location.dated_location	3	book.book_subject	time.event	olympics.olympic_games
+business.brand_colors	2	1	business.brand	1	visual_art.color
+biology.breed_registration	3	3	book.book_subject	biology.organism_classification	biology.animal	3	book.author	organization.organization	biology.breed_registry	2	book.book_subject	biology.breed_group
+base.x2010fifaworldcupsouthafrica.world_cup_qualifying_team	3	2	sports.sports_championship_event	time.event	1	time.event	2	sports.sports_team	soccer.football_team
+boats.ship_ownership	2	3	business.employer	organization.organization	boats.ship_owner	1	boats.ship
+user.micahsaul.advertising.ad_campaign_contribution	2	1	award.award_nominated_work	1	people.person
+base.lostbase.episode_character_relationship	2	2	fictional_universe.fictional_character	tv.tv_character	1	tv.tv_series_episode
+base.politicalconventions.vp_delegate_vote_tally	2	1	time.event	3	people.person	book.book_subject	award.award_winner
+base.arthist.provenienciaadat	3	1	location.location	3	location.location	location.statistical_region	location.dated_location	3	location.location	projects.project_focus	architecture.structure
+base.catalog.music_catalog_entry	2	3	book.book_subject	award.award_nominated_work	award.award_winning_work	2	book.book	book.written_work
+base.government2.legislative_position_held	2	3	business.employer	government.governmental_body	book.book_subject	1	government.legislative_session
+base.visleg.collaborative_participation	3	2	book.written_work	book.book_subject	3	business.job_title	internet.website_category	projects.project_role	3	people.person	business.employer	organization.organization
+base.horseracing.race_results	3	1	people.person	1	time.event	2	biology.owned_animal	biology.organism
+baseball.historical_coaching_tenure	3	3	people.person	people.measured_person	sports.pro_athlete	3	baseball.baseball_team	sports.sports_team	sports.professional_sports_team	2	sports.coaching_position	baseball.baseball_coaching_position
+film.performance	3	3	fictional_universe.fictional_character	book.book_character	film.film_character	3	award.award_nominated_work	award.award_winning_work	media_common.netflix_title	3	people.person	people.measured_person	award.award_nominee
+base.surfing.asp_world_tour_rating	2	1	time.event	1	people.person
+user.ajain.default_domain.app_deadline	3	3	business.employer	organization.organization	award.ranked_item	2	book.book_subject	education.field_of_study	1	education.educational_degree
+user.pak21.default_domain.sports_squad	2	3	people.person	people.measured_person	sports.pro_athlete	1	sports.sports_team
+book.publisher_imprint_tenure	2	1	book.publishing_company	1	book.publishing_company
+base.adoption.adoption	2	3	people.person	book.book_subject	people.measured_person	3	people.person	people.deceased_person	symbols.name_source
+base.x2010fifaworldcupsouthafrica.host_cities	3	3	location.location	projects.project_focus	architecture.structure	3	time.event	film.film_subject	sports.sports_championship_event	3	location.location	location.statistical_region	location.dated_location
+award.category_ceremony_relationship	2	2	time.recurring_event	award.recurring_award_ceremony	1	award.award_category
+base.tournaments.group_competitor_relationship	3	1	sports.sports_team	1	time.event	1	time.event
+base.popstra.restaurant_choice	2	3	people.person	book.book_subject	people.measured_person	3	book.book_subject	award.award_winner	business.employer
+business.open_times	3	1	time.day_of_week	1	time.time_zone	1	time.day_of_week
+base.datedlocationtest.dated_location_split	2	3	location.location	location.statistical_region	location.dated_location	3	book.book_subject	location.location	location.statistical_region
+base.conservationaction.documented_priority_species	4	3	book.book_subject	biology.organism_classification	symbols.namesake	3	book.book_subject	business.employer	location.location	3	book.book_subject	book.written_work	book.scholarly_work	0	
+opera.opera_designer_gig	3	3	book.book_subject	people.profession	film.film_job	2	opera.opera_production	award.award_nominated_work	3	people.person	award.award_nominee	theater.theater_designer
+base.jamesbond007.villain_objective	2	3	fictional_universe.fictional_character	fictional_universe.fictional_employer	film.film_character	3	award.award_nominated_work	award.award_winning_work	award.ranked_item
+base.popstra.party_attendance_person	2	3	people.person	book.book_subject	people.measured_person	3	book.book_subject	business.employer	location.location
+base.greatfilms.ranking	2	2	award.ranked_item	film.film	1	award.ranked_list
+computer.os_compatibility	2	1	computer.software	1	computer.computer
+base.column.column_syndicate_duration	2	2	symbols.namesake	people.person	3	business.employer	organization.organization	book.author
+biology.animal_ownership	2	1	biology.animal_owner	2	biology.owned_animal	biology.organism
+base.webvideo.internet_video_crew_gig	3	0		3	book.book_subject	people.profession	education.field_of_study	3	people.person	film.actor	film.producer
+royalty.chivalric_order_relationship	3	2	royalty.order_of_chivalry	royalty.chivalric_title	1	royalty.order_of_chivalry	1	royalty.system_of_nobility
+base.animalnames.animal_specific_name_relationship	3	3	book.book_subject	film.film_subject	people.profession	3	book.book_subject	visual_art.art_subject	award.award_discipline	3	book.book_subject	biology.organism_classification	media_common.quotation_subject
+fashion.designer_label_association	2	1	fashion.fashion_label	3	people.person	award.award_winner	film.person_or_entity_appearing_in_film
+fictional_universe.fictional_employment_tenure	3	1	fictional_universe.fictional_job_title	1	fictional_universe.fictional_character	1	fictional_universe.fictional_employer
+protected_sites.natural_or_cultural_site_listing	3	1	protected_sites.site_listing_category	1	protected_sites.natural_or_cultural_site_designation	1	protected_sites.listed_site
+media_common.dedication	3	2	book.author	media_common.dedicator	3	media_common.dedicatee	people.person	people.deceased_person	1	media_common.dedicated_work
+theater.theater_role	3	2	people.person	theater.theater_actor	2	theater.theater_character	fictional_universe.fictional_character	1	theater.theater_production
+base.popstra.substance_abuse	2	3	book.book_subject	film.film_subject	education.field_of_study	3	people.person	book.book_subject	people.measured_person
+sports.sports_league_participation	4	2	sports.sports_league_season	time.event	3	business.employer	sports.sports_league	organization.organization	2	time.event	sports.sports_league_season	1	sports.sports_team
+award.award_honor	5	1	award.award_achievement_level	1	award.award_winner	1	award.award_winning_work	1	award.award_category	2	award.award_ceremony	time.event
+user.arielb.stalag.prisoners	2	3	book.book_subject	location.location	organization.organization	3	book.book_subject	military.military_conflict	time.event
+base.schemastaging.team_training_ground_relationship	2	1	sports.sports_team	3	location.location	projects.project_focus	architecture.structure
+award.award_judging_term	2	1	award.award_category	3	award.award_judge	people.person	award.award_nominee
+american_football.game_receiving_statistics	2	3	time.event	american_football.football_game	american_football.nfl_game	3	people.person	people.measured_person	sports.pro_athlete
+olympics.olympic_torch_relay	3	3	people.person	award.award_nominee	award.award_winner	3	time.event	book.book_subject	award.award_nominated_work	3	business.employer	location.location	location.statistical_region
+base.esports.e_sports_roster_position	2	1	organization.organization	2	people.person	award.award_nominee
+soccer.football_player_match_participation	3	2	soccer.football_team	sports.sports_team	3	people.person	people.measured_person	sports.pro_athlete	2	soccer.football_match	time.event
+soccer.football_player_stats	2	3	people.person	people.measured_person	sports.pro_athlete	2	soccer.football_team	sports.sports_team
+base.umltools.code_generation	3	3	book.book_subject	education.field_of_study	media_common.quotation_subject	2	computer.software	book.book_subject	0	
+theater.theater_designer_gig	3	1	theater.theater_designer_role	1	people.person	1	theater.theater_production
+business.asset_ownership	2	1	business.asset_owner	1	business.asset
+spaceflight.rocket_stage	3	2	spaceflight.bipropellant_rocket_engine	spaceflight.rocket_engine	1	spaceflight.rocket_fuel	1	spaceflight.rocket
+base.saturdaynightlive.snl_movie_spin_off_cast_performance	3	3	people.person	award.award_nominee	award.award_winner	3	award.award_nominated_work	award.award_winning_work	award.ranked_item	3	fictional_universe.fictional_character	tv.tv_character	film.film_character
+military.force_strength	3	1	military.military_resource	1	military.military_combatant	3	military.military_conflict	time.event	book.book_subject
+royalty.noble_title_tenure	2	1	royalty.noble_title	2	royalty.noble_person	people.person
+base.bioventurist.sales	2	3	book.book_subject	business.employer	organization.organization	1	finance.currency
+government.government_position_held	5	3	book.book_subject	location.location	location.statistical_region	3	book.book_subject	business.employer	book.author	3	people.person	government.politician	government.political_appointer	1	government.legislative_session	3	book.book_subject	business.employer	location.location
+user.robert.area_codes.coverage	2	2	location.dated_location	location.location	3	book.book_subject	location.location	location.statistical_region
+cvg.game_performance	3	1	cvg.computer_videogame	2	fictional_universe.fictional_character	cvg.game_character	2	people.person	cvg.game_voice_actor
+base.formula1.formula_1_championship_standing	2	3	book.book_subject	time.event	sports.sports_league_season	1	people.person
+freebase.list_entry	2	3	people.person	time.event	book.book_subject	0	
+award.hall_of_fame_induction	3	1	award.hall_of_fame_inductee	1	award.hall_of_fame_induction_category	1	award.hall_of_fame
+opera.opera_production_venue_relationship	2	3	location.location	architecture.structure	architecture.venue	1	opera.opera_production
+american_football.player_game_statistics	2	3	people.person	people.measured_person	sports.pro_athlete	2	sports.sports_league_season	time.event
+cricket.cricket_roster_batting	5	3	people.person	people.measured_person	sports.pro_athlete	3	people.person	people.measured_person	sports.pro_athlete	3	people.person	people.measured_person	sports.pro_athlete	1	cricket.cricket_roster	1	cricket.dismissal_type
+sports.sports_league_draft_pick	4	3	people.person	people.measured_person	sports.pro_athlete	1	business.employer	2	sports.sports_team	sports.professional_sports_team	1	sports.sports_league_draft
+base.vgames.video_game_release	3	3	award.award_nominated_work	award.award_winning_work	award.ranked_item	2	organization.organization_scope	location.location	3	book.book_subject	cvg.cvg_platform	internet.website_category
+soccer.football_disciplinary_action	2	3	people.person	people.measured_person	sports.pro_athlete	2	soccer.football_match	time.event
+comic_strips.comic_strip_creator_duration	2	3	people.person	book.author	tv.tv_program_creator	1	comic_strips.comic_strip
+soccer.football_player_loan	3	3	people.person	people.measured_person	sports.pro_athlete	2	sports.sports_team	soccer.football_team	2	soccer.football_team	sports.sports_team
+user.alecf.recreation.park_feature_quantity	2	3	book.book_subject	award.award_nominated_work	location.location	3	location.location	location.dated_location	geography.geographical_feature
+base.x2010fifaworldcupsouthafrica.world_cup_team	3	3	time.event	film.film_subject	sports.sports_championship_event	2	sports.sports_team	soccer.football_team	0	
+tv.tv_producer_term	2	1	tv.tv_program	1	tv.tv_producer
+baseball.current_coaching_tenure	3	3	baseball.baseball_team	sports.professional_sports_team	sports.sports_team	3	people.person	people.measured_person	sports.pro_athlete	2	sports.coaching_position	baseball.baseball_coaching_position
+baseball.baseball_team_stats	2	2	time.event	sports.sports_league_season	1	sports.sports_team
+base.firsts.first_achievement	3	3	people.person	book.book_subject	organization.organization_founder	2	people.person	internet.blogger	3	book.book_subject	business.employer	symbols.flag_referent
+base.fictionaluniverse.fictional_inhabitation	3	3	tv.tv_actor	fictional_universe.fictional_character	tv.tv_character	3	book.book_subject	film.film_subject	tv.tv_subject	3	tv.tv_actor	fictional_universe.fictional_character	tv.tv_character
+base.popstra.operation	2	3	medicine.medical_treatment	law.invention	book.book_subject	3	people.person	book.book_subject	people.measured_person
+dining.restaurant_chef_association	2	2	dining.restaurant	business.business_location	3	dining.chef	people.person	award.award_nominee
+base.marchmadness.ncaa_tournament_seed	2	3	sports.sports_team	sports.school_sports_team	basketball.basketball_team	2	sports.sports_championship_event	time.event
+music.conducting_tenure	2	3	music.conductor	music.artist	people.person	3	music.conducted_ensemble	music.musical_group	music.artist
+film.film_regional_release_date	2	3	location.dated_location	location.statistical_region	location.location	1	film.film
+award.award_nomination	4	2	time.event	award.award_ceremony	1	award.award_category	1	award.award_nominee	1	award.award_nominated_work
+base.militaryinfiction.military_combatant_group_tenure_in_fiction	3	1	fictional_universe.fictional_organization	3	fictional_universe.work_of_fiction	book.written_work	media_common.quotation_source	1	fictional_universe.fictional_organization
+base.skateboarding.brand_distribution_relationship	2	3	business.employer	organization.organization	business.business_operation	1	business.employer
+base.entertainmentutilities.nomination_metadata	2	1	award.award_category	1	award.award
+user.robert.earthquakes.earthquake_nearest_location	2	2	event.disaster	time.event	3	location.location	location.statistical_region	location.dated_location
+american_football.game_passing_statistics	2	3	people.person	people.measured_person	sports.pro_athlete	3	american_football.nfl_game	time.event	american_football.football_game
+sports.competitor_country_relationship	4	3	people.person	people.measured_person	sports.pro_athlete	3	sports.multi_event_tournament	olympics.olympic_games	time.event	3	book.book_subject	business.employer	film.film_subject	3	book.book_subject	location.location	location.statistical_region
+soccer.football_team_management_tenure	2	2	soccer.football_team	sports.sports_team	2	soccer.football_team_manager	people.person
+biology.hybrid_parentage	2	1	biology.hybrid_parent_classification	3	biology.hybrid_parent_classification	biology.organism_classification	biology.hybrid
+tv.tv_program_writer_relationship	2	2	people.person	tv.tv_writer	1	tv.tv_program
+base.handball.handball_team_match_participation	2	1	sports.sports_team	1	time.event
+base.popstra.arrest	3	3	book.book_subject	sports.sports_team	business.employer	2	celebrities.reason_for_arrest	media_common.cause_of_loss	3	people.person	book.book_subject	people.measured_person
+base.popstra.vacation_choice	2	1	location.location	1	people.person
+user.alecf.car_sharing.vehicle_location_value	3	1	automotive.model	3	location.location	film.film_location	projects.project_focus	0	
+theater.theater_production_staff_gig	3	1	theater.theater_production	1	people.person	1	theater.theater_production_staff_role
+fashion.clothing_size	3	3	business.consumer_product	business.industry	business.product_category	1	people.person	3	book.book_subject	location.location	location.statistical_region
+base.marchmadness.ncaa_basketball_final_four_broadcaster	2	1	people.person	2	time.event	sports.sports_championship_event
+base.column.column_periodical_duration	2	3	award.award_nominated_work	award.award_winning_work	media_common.quotation_source	3	award.award_nominated_work	book.written_work	book.published_work
+military.military_posting	2	3	people.person	fictional_universe.fictional_character	media_common.quotation_addressee	3	book.book_subject	business.employer	location.location
+base.politicalconventions.pres_delegate_vote_tally	2	1	time.event	3	people.person	book.book_subject	award.award_winner
+travel.hotel_grade	2	1	travel.hotel_grading_authority	3	location.location	projects.project_focus	architecture.structure
+film.film_cut	2	3	location.statistical_region	location.location	location.dated_location	1	film.film
+base.partnersinflight.population_estimate	3	1	location.location	2	book.book_subject	biology.organism_classification	3	business.board_member	people.person	book.author
+soccer.football_player_substitution	3	3	people.person	people.measured_person	sports.pro_athlete	2	soccer.football_match	time.event	3	people.person	people.measured_person	sports.pro_athlete
+tv.tv_network_duration	2	1	tv.tv_program	1	tv.tv_network
+base.popstra.infidelity	3	2	celebrities.celebrity	people.person	2	people.person	award.award_nominee	2	celebrities.celebrity	people.person
+education.academic_post	2	3	business.employer	organization.organization	education.academic_institution	1	education.academic_post_title
+soccer.football_team_manager_match_participation	3	2	soccer.football_match	time.event	2	sports.sports_team	soccer.football_team	3	people.person	people.measured_person	sports.pro_athlete
+base.foodily.recipe_ingredient	2	2	food.ingredient	food.food	1	food.culinary_measure
+base.brothels.prostitute_employment_tenure	2	3	people.person	people.measured_person	film.actor	0	
+base.prison.imprisonment	2	1	location.location	1	people.person
+base.rugby.rugby_coaching_tenure	2	3	people.person	people.measured_person	sports.pro_athlete	2	sports.sports_team	organization.organization
+user.ungzd.default_domain.eurovision_vote	2	3	book.book_subject	location.location	location.statistical_region	3	book.book_subject	location.location	location.statistical_region
+freebase.metaweb_api_service_argument	2	0		0	
+religion.place_of_worship_historical_use	2	3	book.book_subject	location.location	location.statistical_region	3	book.book_subject	film.film_subject	education.field_of_study
+base.athletics.athletics_championships_competition_athlete_relationship	4	2	sports.multi_event_tournament	time.event	3	people.person	people.measured_person	sports.pro_athlete	3	book.book_subject	location.location	location.statistical_region	2	sports.tournament_event_competition	time.event
+royalty.chivalric_order_membership	4	3	royalty.order_of_chivalry	award.award_category	royalty.chivalric_title	1	royalty.chivalric_title	3	people.person	tv.tv_actor	film.person_or_entity_appearing_in_film	3	people.person	award.award_nominee	award.award_winner
+base.handball.handball_player_match_participation	3	1	time.event	3	people.person	sports.pro_athlete	people.measured_person	3	organization.club_interest	sports.sports_team	organization.organization
+biology.organism_classification_placement	3	1	biology.organism_classification	1	biology.organism_classification	2	biology.taxonomic_authority	organization.organization
+people.group_membership	2	1	people.group	3	award.award_nominee	award.award_winner	people.person
+people.human_measurement	2	1	people.measured_body_part	1	people.person
+base.popstra.hangout	2	3	people.person	book.book_subject	people.measured_person	3	book.book_subject	award.award_winner	business.employer
+interests.collection	3	1	interests.collectable_item	2	interests.collection_category	book.book_subject	2	people.person	interests.collector
+tv.tv_guest_role	3	1	tv.tv_series_episode	3	film.actor	tv.tv_actor	people.person	2	fictional_universe.fictional_character	tv.tv_character
+base.endorsements.newspaper_endorsement	3	3	book.book_subject	time.event	government.election	3	people.person	award.award_winner	business.employer	2	book.periodical	book.newspaper
+base.bioventurist.bv_investment_round	4	1	venture_capital.investment_round	1	venture_capital.venture_investor	3	business.employer	organization.organization	business.business_operation	1	finance.currency
+base.conservation.protected_species_status	3	0		3	book.book_subject	biology.organism_classification	visual_art.art_subject	2	book.book_subject	book.written_work
+base.localfood.produce_availability	2	3	location.location	location.statistical_region	location.dated_location	2	biology.organism_classification	food.ingredient
+tv.tv_guest_personal_appearance	2	1	tv.tv_program_guest	1	tv.tv_series_episode
+location.mailing_address	4	3	book.book_subject	business.employer	location.location	3	book.book_subject	location.location	location.statistical_region	2	location.postal_code	location.location	3	location.location	location.statistical_region	location.dated_location
+music.group_membership	3	1	music.performance_role	2	people.person	music.group_member	1	music.artist
+user.cip22.default_domain.musical_contribution	3	2	music.performance_role	music.instrument	1	music.recording	3	people.person	award.award_nominee	award.award_winner
+military.military_command	3	1	military.military_combatant	2	military.military_conflict	time.event	2	people.person	military.military_commander
+book.periodical_publisher_period	2	1	book.periodical	1	book.periodical_publisher
+base.schemastaging.sports_league_season_ranking	2	2	sports.sports_league_season	time.event	1	sports.sports_team
+base.thoroughbredracing.horse_owner_relationship	2	3	award.award_winner	award.hall_of_fame_inductee	biology.organism	3	people.person	location.location	organization.organization_founder
+celebrities.substance_abuse_problem	2	2	celebrities.abused_substance	book.book_subject	2	celebrities.celebrity	people.person
+base.survivor.survivor_tribe_membership	4	1	tv.tv_series_episode	1	tv.tv_series_episode	3	people.person	people.measured_person	sports.pro_athlete	3	location.location	location.statistical_region	travel.travel_destination
+military.military_post_use	2	3	fictional_universe.fictional_setting	location.location	military.military_post	2	fictional_universe.fictional_organization	organization.organization
+base.trixtypes.stat	2	0		0	
+base.peleton.cycling_team_membership	2	2	sports.sports_team	business.sponsored_recipient	3	people.person	people.measured_person	sports.pro_athlete
+visual_art.artwork_location_relationship	2	1	location.location	1	visual_art.artwork
+base.militaryinfiction.force_strength_in_fiction	5	3	book.book_subject	fictional_universe.fictional_setting	media_common.quotation_addressee	3	fictional_universe.work_of_fiction	book.written_work	media_common.quotation_addressee	1	book.book_subject	3	business.employer	organization.organization	media_common.quotation_addressee	1	fictional_universe.event_in_fiction
+book.editorial_tenure	3	1	book.editor_title	1	book.periodical	2	book.periodical_editor	people.person
+base.x2010fifaworldcupsouthafrica.group_qualifying_teams	2	0		3	soccer.football_team	sports.sports_team	organization.organization
+base.schemastaging.heya_wrestler_relationship	2	1	organization.organization	3	people.person	people.measured_person	sports.pro_athlete
+business.company_product_line_relationship	2	1	business.product_line	2	organization.organization	business.business_operation
+user.uoa_it.uoa_it.uoa_collaboration	2	0		0	
+base.tournaments.match_competitor_relationship	2	1	sports.sports_team	1	time.event
+base.iceandfire.possession	2	3	fictional_universe.fictional_character	tv.tv_character	book.book_character	1	fictional_universe.fictional_object
+user.robert.default_domain.open_times	2	2	time.day_of_year	time.day_of_week	1	time.day_of_week
+food.beer_containment	2	1	food.beer	1	food.beer_container
+royalty.precedence	3	1	royalty.noble_rank	1	royalty.noble_rank	1	royalty.system_of_nobility
+tv.tv_regular_personal_appearance	3	1	tv.tv_program	1	tv.tv_series_season	1	tv.tv_personality
+american_football.player_passing_statistics	2	3	people.person	people.measured_person	sports.pro_athlete	2	time.event	sports.sports_league_season
+base.vwmtbase.vw_adapter_2_data_representation	3	0		0		0	
+base.represent.agent_celebrity_representation	2	2	celebrities.celebrity	people.person	1	people.person
+law.judicial_tenure	3	1	law.court	2	people.person	law.judge	1	law.judicial_title
+baseball.baseball_historical_managerial_position	2	3	baseball.baseball_team	sports.sports_team	sports.professional_sports_team	3	people.person	people.measured_person	sports.pro_athlete
+user.alexbl.congressional_voting_records.congressional_vote	2	3	people.person	book.book_subject	award.award_nominee	0	
+law.legal_case_party_relationship	3	1	law.legal_party_role	2	law.legal_case	time.event	1	law.litigant
+business.product_endorsement	3	2	business.consumer_product	business.endorsed_product	3	people.measured_person	people.person	business.product_endorser	1	business.product_endorsee
+travel.hotel_guest_visit	2	3	location.location	projects.project_focus	architecture.structure	1	film.person_or_entity_appearing_in_film
+base.schemastaging.phone_sandbox	4	3	book.book_subject	organization.contact_category	symbols.namesake	3	business.industry	organization.organization_sector	book.book_subject	3	book.book_subject	business.employer	location.location	1	organization.contact_category
+wine.grape_variety_composition	2	1	wine.grape_variety	2	business.consumer_product	wine.wine
+business.competitive_space_mediator	3	1	business.brand	3	business.employer	business.business_operation	organization.organization	2	business.competitive_space	book.book_subject
+opera.opera_character_voice	2	2	fictional_universe.fictional_character	opera.opera_character	2	music.composition	opera.opera
+organization.leadership	2	2	business.board_member	people.person	1	organization.role
+education.honorary_degree	3	3	people.person	award.award_winner	book.author	1	education.educational_degree	3	business.employer	organization.organization	award.ranked_item
+user.alexbl.honorary_title.honorary_title_holding	3	3	people.person	tv.tv_actor	film.person_or_entity_appearing_in_film	3	royalty.noble_person	people.person	royalty.chivalric_order_member	1	royalty.chivalric_title
+tv.tv_producer_episode_credit	2	1	tv.tv_producer	1	tv.tv_series_episode
+travel.transportation	4	3	location.location	location.statistical_region	location.dated_location	2	location.location	travel.transport_terminus	1	travel.transportation_mode	1	travel.transport_operator
+base.datedlocationtest.dated_location_break_up	2	3	book.book_subject	location.location	location.statistical_region	3	book.book_subject	business.employer	location.location
+base.lists.list_entry	2	0		3	award.ranked_item	fictional_universe.fictional_character	symbols.name_source
+base.umltools.round_trip_engineering	3	0		3	book.book_subject	education.field_of_study	media_common.quotation_subject	1	computer.software
+olympics.olympic_medal_honor	4	3	book.book_subject	time.event	olympics.olympic_games	3	location.location	location.statistical_region	location.dated_location	3	people.person	people.measured_person	sports.pro_athlete	2	olympics.olympic_event_competition	time.event
+base.webvideo.internet_video_performance	3	3	people.person	people.measured_person	sports.pro_athlete	3	people.person	people.measured_person	sports.pro_athlete	2	music.music_video	tv.tv_episode_segment
+user.cheunger.sports_test.roster_membership	2	3	people.person	sports.pro_athlete	people.measured_person	3	soccer.football_position	sports.sports_position	people.profession
+royalty.system_title_relationship	2	1	royalty.system_of_nobility	1	royalty.noble_title
+business.company_brand_relationship	2	3	organization.organization	business.business_operation	business.employer	1	business.brand
+baseball.batting_statistics	3	1	sports.sports_team	2	sports.sports_league_season	time.event	3	people.person	people.measured_person	sports.pro_athlete
+government.national_anthem_of_a_country	2	3	book.book_subject	location.location	location.statistical_region	2	government.national_anthem	music.composition
+base.schemastaging.tv_star_dubbing_performance	4	1	language.human_language	2	fictional_universe.fictional_character	tv.tv_character	1	tv.tv_program	2	tv.tv_actor	people.person
+business.company_product_relationship	2	1	business.employer	1	business.consumer_product
+architecture.occupancy	2	1	location.location	1	architecture.building_occupant
+base.handball.handball_roster_position	3	3	people.person	sports.pro_athlete	people.measured_person	1	sports.sports_team	1	sports.sports_position
+base.popstra.support	2	3	organization.organization	business.employer	award.award_winner	3	people.person	people.measured_person	award.award_nominee
+base.rugby.rugby_club_tenure	2	3	sports.pro_athlete	people.measured_person	people.person	1	sports.sports_team
+base.schemastaging.athlete_salary	3	1	sports.sports_team	1	finance.currency	3	people.measured_person	people.person	sports.pro_athlete
+base.survivor.survivor_placement	2	1	tv.tv_series_episode	1	people.person
+base.politicalconventions.convention_leadership	3	3	business.job_title	organization.role	projects.project_role	1	time.event	3	people.person	tv.tv_actor	film.actor
+business.market_share	3	3	award.award_nominee	award.award_winner	business.employer	3	book.book_subject	cvg.cvg_platform	internet.website_category	3	book.book_subject	location.location	location.statistical_region
+tv.tv_segment_performance	3	2	fictional_universe.fictional_character	tv.tv_character	1	tv.tv_episode_segment	3	film.actor	tv.tv_actor	people.person
+royalty.system_rank_relationship	2	1	royalty.noble_rank	1	royalty.system_of_nobility
+base.popstra.public_insult	2	2	people.person	film.actor	1	people.person
+rail.railway_operator_relationship	2	2	rail.railway	location.location	3	business.employer	organization.organization	business.business_operation
+chemistry.solubility_relationship	2	1	chemistry.chemical_compound	1	chemistry.chemical_compound
+base.vwmtbase.vw_adapter_2_tranformation_agent	3	0		0		0	
+military.military_service	4	1	people.person	1	military.rank	2	organization.organization	military.armed_force	1	organization.organization
+base.americancomedy.comedy_group_membership	2	3	people.person	award.award_nominee	award.award_winner	3	award.award_winner	business.employer	organization.organization
+base.thoroughbredracing.horse_trainer_relationship	2	1	biology.organism	1	people.person
+base.schemastaging.religion_statistics	2	3	book.book_subject	location.location	organization.organization	2	book.book_subject	religion.religion
+soccer.football_league_participation	4	3	soccer.football_league_season	time.event	sports.sports_league_season	3	soccer.football_league_season	time.event	sports.sports_league_season	2	soccer.football_team	sports.sports_team	3	business.employer	organization.organization	time.recurring_event
+base.nascar.nascar_race_result	2	1	people.person	1	time.event
+religion.religious_leadership_jurisdiction_appointment	2	1	religion.religious_leadership_title	3	location.location	religion.religious_leadership_jurisdiction	location.dated_location
+base.vwmtbase.vw_data_representation_2_transformation_agent	3	0		0		0	
+cricket.cricket_roster_bowling	2	1	cricket.cricket_roster	3	people.person	people.measured_person	sports.pro_athlete
+base.iceandfire.house_weapon_stint	2	1	fictional_universe.fictional_organization	1	fictional_universe.fictional_object
+sports.sports_team_roster	2	1	sports.sports_team	3	people.measured_person	people.person	sports.pro_athlete
+food.recipe_ingredient	3	1	food.ingredient	1	food.recipe	1	food.culinary_measure
+education.education	6	1	education.educational_degree	3	business.employer	education.educational_institution	organization.organization	1	education.field_of_study	1	education.field_of_study	1	people.person	1	education.field_of_study
+tv.tv_crew_gig	3	2	tv.tv_crewmember	people.person	1	tv.tv_crew_role	1	tv.tv_series_episode
+baseball.lifetime_batting_statistics	4	3	people.person	people.measured_person	sports.pro_athlete	2	sports.sports_league_season	time.event	2	sports.sports_league_season	time.event	2	sports.sports_league_season	time.event
+business.market_size	2	1	finance.currency	3	book.book_subject	location.location	location.statistical_region
+base.cycleroute.cycle_route_connection	2	1	location.location	1	location.location
+base.petbreeds.dog_city_relationship	2	3	biology.organism_classification	biology.animal_breed	biology.animal	3	location.location	location.statistical_region	location.dated_location
+finance.exchange_rate	2	1	finance.currency	1	finance.currency
+book.journal_publication	2	3	book.scholarly_work	book.journal_article	book.written_work	2	book.journal	book.periodical
+broadcast.radio_affiliation_duration	2	1	broadcast.radio_network	2	broadcast.radio_station	broadcast.broadcast
+base.government2.elected_government_positions_held	3	3	people.person	book.book_subject	award.award_nominee	3	book.book_subject	business.employer	location.location	3	book.book_subject	business.employer	location.location
+base.aubreymaturin.affliction	3	3	award.award_nominee	people.person	medicine.notable_person_with_medical_condition	3	medicine.disease_cause	medicine.risk_factor	medicine.disease	2	medicine.drug_brand	business.brand
+book.contents	2	1	book.publication	1	book.published_work
+base.wrestling.championship_title_reign	2	3	people.person	people.measured_person	sports.pro_athlete	3	time.recurring_event	sports.sports_championship	award.award_category
+olympics.olympic_athlete_affiliation	3	3	book.book_subject	location.location	location.statistical_region	3	people.measured_person	people.person	sports.pro_athlete	3	book.book_subject	time.event	olympics.olympic_games
+user.robert.default_domain.film_review	2	3	award.award_nominated_work	award.award_winning_work	award.ranked_item	2	type.namespace	type.user
+base.iceandfire.house_lordship	2	3	fictional_universe.fictional_character	tv.tv_character	book.book_character	1	fictional_universe.fictional_organization
+measurement_unit.dated_money_value	2	1	dataworld.information_source	1	finance.currency
+user.sandos.social.has_visited	2	3	book.book_subject	location.location	location.statistical_region	2	people.person	influence.influence_node
+base.endorsements.personal_endorsement	3	3	people.person	book.book_subject	people.measured_person	3	people.person	book.book_subject	award.award_nominee	3	book.book_subject	time.event	government.election
+architecture.ownership	2	2	location.location	architecture.structure	1	architecture.architectural_structure_owner
+base.webvideo.internet_video_producer_credit	2	0		3	people.person	award.award_nominee	award.award_winner
+music.track_contribution	2	1	music.performance_role	1	music.artist
+award.long_list_nomination	3	3	award.long_listed_work	award.award_nominated_work	award.award_winning_work	3	people.person	award.award_nominee	award.award_winner	1	award.award_category
+user.szaijan.fantasy_football.projection	3	1	music.genre	3	people.person	people.measured_person	sports.pro_athlete	0	
+award.ranking	2	1	award.ranked_list	1	award.ranked_item
+base.siswimsuitmodels.si_swimsuit_appearance	3	2	film.actor	people.person	2	book.magazine_issue	book.publication	3	book.book_subject	location.location	location.statistical_region
+theater.theater_production_venue_relationship	2	1	theater.theater_production	2	theater.theater	architecture.venue
+base.famouspets.pet_ownership	2	1	people.person	1	biology.organism
+base.popstra.product_choice	2	3	book.book_subject	award.ranked_item	cvg.cvg_platform	3	people.person	people.measured_person	award.award_nominee
+music.recording_contribution	3	1	music.artist	1	music.performance_role	1	music.album
+music.music_video_performance	2	1	music.music_video	2	people.person	music.music_video_performer
+base.contractbridge.bridge_tournament_standings	3	1	time.recurring_event	3	people.person	people.measured_person	sports.pro_athlete	3	people.person	people.measured_person	sports.pro_athlete
+film.film_film_company_relationship	3	3	business.employer	organization.organization	business.business_operation	1	film.film	1	film.film_company_role_or_service
+basketball.basketball_team_stats	2	2	time.event	sports.sports_league_season	3	award.award_nominee	award.award_winner	sports.sports_team
+base.saturdaynightlive.snl_season_tenure	2	1	tv.tv_series_season	3	film.actor	tv.tv_actor	people.person
+user.ajain.default_domain.admission_requirements	6	3	business.employer	location.location	organization.organization	0		2	education.educational_degree	dataworld.information_source	3	book.book_subject	award.ranked_item	people.profession	3	book.book_subject	education.field_of_study	organization.organization_sector	2	education.educational_degree	book.book_subject
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	4	2	soccer.football_position	sports.sports_position	3	people.person	people.measured_person	sports.pro_athlete	2	soccer.football_team	sports.sports_team	2	soccer.football_team	sports.sports_team
+aviation.airline_airport_presence	3	2	location.dated_location	location.location	2	location.location	aviation.airport	3	business.employer	organization.organization	business.business_operation
+travel.travel_destination_monthly_climate	2	3	location.location	location.statistical_region	location.dated_location	1	time.month
+sports.team_venue_relationship	2	3	location.location	projects.project_focus	architecture.structure	1	sports.sports_team
+film.personal_film_appearance	2	1	film.film	1	film.person_or_entity_appearing_in_film
+people.marriage	2	1	people.person	1	location.location
+tennis.tennis_tournament_championship	2	2	time.recurring_event	tennis.tennis_tournament	3	people.person	people.measured_person	sports.pro_athlete
+sports.sports_team_season_record	2	2	time.event	sports.sports_league_season	1	sports.sports_team
+american_football.football_historical_coach_position	2	2	american_football.football_coach	people.person	2	american_football.football_coach_position	sports.coaching_position
+film.film_film_distributor_relationship	3	2	organization.organization	film.film_distributor	1	film.film	1	location.location
